@@ -23,6 +23,6 @@
     }
   },
   "browserslist": [
-    "defaults"
+    "Chrome > 85"
   ]
 }
